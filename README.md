@@ -1,7 +1,7 @@
 
 # Lighting Support System for Readers
 
-This is a mini project from my **Embedded System Design** course. It runs on an **ESP32 microcontroller**, using distance data from an mmwave sensor to control the an LED strip.
+This is a mini project from my **Embedded System Design** course. It runs on an **ESP32 microcontroller**, using distance data from an mmwave sensor to control an LED strip.
 
 
 ## Features
